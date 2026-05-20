@@ -10,7 +10,7 @@
 - Predictive Maintenance Dashboard
 
 🎨 Also run social media for our Data Science Club  
-📫 Contact: fatemakanchwala00@gmail.com  
+📫 Contact: kanchwalafatema04@gmail.com  
 🔗 LinkedIn: [www.linkedin.com/in/fatema-k-397565273/]
 
 
