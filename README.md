@@ -7,6 +7,7 @@
 - Demand Forecasting & Inventory Optimization  
 - Online Food Delivery Analysis
 - Echo - Virtual Assistant
+- Predictive Maintenance Dashboard
 
 🎨 Also run social media for our Data Science Club  
 📫 Contact: fatemakanchwala00@gmail.com  
