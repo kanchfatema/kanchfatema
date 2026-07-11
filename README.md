@@ -1,6 +1,6 @@
 # Fatema Kanchwala
 
-🎓 Student | Data Science & Business Analytics
+🎓 Data Science & Business Analytics Graduate
 📍 Passionate about data-driven solutions and analytical problem-solving
 
 📊 Current Projects:  
